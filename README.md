@@ -1,4 +1,4 @@
-Pokédex
+# Pokédex
 Bem-vindo à minha Pokédex! Este é um projeto que desenvolvi como estudante de programação, com o objetivo de aprender e praticar novas habilidades.
 
 Sobre o Projeto
