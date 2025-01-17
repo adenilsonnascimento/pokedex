@@ -40,4 +40,10 @@ Estou planejando adicionar mais funcionalidades, como:
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
 
+## Como Acessar
+
+Clique no botão abaixo para acessar a Pokédex:
+
+[![Acesse a Pokédex](https://img.shields.io/badge/Acessar-Pokédex-blue)](https://adenilsonnascimento.github.io/pokedex/)
+
 Espero que você goste da minha Pokédex! Se tiver sugestões ou feedback, ficarei feliz em ouvir.
